@@ -1,6 +1,5 @@
 import React, {FC, useCallback, useEffect, useState} from 'react';
 import {IResult} from "../types/types";
-import CategoriesItem from "./CategoriesItem";
 import axios from "axios";
 import QuoteItem from "./QuoteItem";
 import tags from "./TagsList"
