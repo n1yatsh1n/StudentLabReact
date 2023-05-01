@@ -11,9 +11,4 @@ export interface IResult{
     // An array of tag names for this quote
     tags: string[];
 }
-export interface ITags{
-    _id: string;
-    name: string;
-    slug: string;
-}
 
